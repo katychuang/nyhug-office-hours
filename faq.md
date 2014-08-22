@@ -12,10 +12,19 @@ Most folks bring their computers to work on their haskell code. Sometimes there 
 
 There are a number of formats and resources available.
 
-* Books: [Learn You a Haskell (LYAH)](http://learnyouahaskell.com/), [Real World Haskell](http://book.realworldhaskell.org/), [Programming in Haskell](http://www.cs.nott.ac.uk/~gmh/book.html), [and more](http://reinh.com/notes/posts/2014-07-25-recommended-reading-material.html)
+* Books: [Learn You a Haskell (LYAH)<sup>1</sup>](http://learnyouahaskell.com/), [Real World Haskell (RWH)<sup>2</sup>](http://book.realworldhaskell.org/), [Programming in Haskell<sup>3</sup>](http://www.cs.nott.ac.uk/~gmh/book.html), [and more](http://reinh.com/notes/posts/2014-07-25-recommended-reading-material.html)
 * Videos: [Haskell Lectures by Dr. Erik Meijer](https://www.youtube.com/playlist?list=PLlHF8jw6FqhBKWxhfZchP0haXXPYk5mSB)
 * Classes: [edX - Intro to Functional Programming](https://www.edx.org/course/delftx/delftx-fp101x-introduction-functional-2126#.U_bFL7xdVgw)  
 * Tutorials: [Haskell Wiki's list](http://www.haskell.org/haskellwiki/Tutorials), [@bitemyapp's learn haskell](https://github.com/bitemyapp/learnhaskell), [@katychuang's getting started with haskell](https://github.com/katychuang/getting-started-with-haskell)  
+
+Note: [@bitemyapp](https://github.com/bitemyapp/learnhaskell#yorgey-course---do-this-first-this-is-the-primary-way-i-recommend-being-introduced-to-haskell) recommends starting with online courses if you're coming from another language. 
+
+*Footnotes*
+
+1. LYAH is great for those with zero to little experience with coding. 
+2. RWH provides useful material for those who use Haskell in production. The examples are not up to date since it was published years ago.
+3. Programming in Haskell was used in the Haskell for Cats series.
+
 
 ## GHC Compiler Installation Tips
 
