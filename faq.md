@@ -10,14 +10,12 @@ Most folks bring their computers to work on their haskell code. Sometimes there 
 
 ## Where/how should I learn haskell?
 
-There are a number of formats and resources available.
+There are a number of formats and resources available. A complete resource is available - [@bitemyapp's learn haskell](https://github.com/bitemyapp/learnhaskell). He recommends you start with Brent Yorgey's online course first, if you're coming from another language. Otherwise start with the first few chapters of LYAH.
 
 * Books: [Learn You a Haskell (LYAH)<sup>1</sup>](http://learnyouahaskell.com/), [Real World Haskell (RWH)<sup>2</sup>](http://book.realworldhaskell.org/), [Programming in Haskell<sup>3</sup>](http://www.cs.nott.ac.uk/~gmh/book.html), [and more](http://reinh.com/notes/posts/2014-07-25-recommended-reading-material.html)
 * Videos: [Haskell Lectures by Dr. Erik Meijer](https://www.youtube.com/playlist?list=PLlHF8jw6FqhBKWxhfZchP0haXXPYk5mSB)
-* Classes: [edX - Intro to Functional Programming](https://www.edx.org/course/delftx/delftx-fp101x-introduction-functional-2126#.U_bFL7xdVgw)  
-* Tutorials: [Haskell Wiki's list](http://www.haskell.org/haskellwiki/Tutorials), [@bitemyapp's learn haskell](https://github.com/bitemyapp/learnhaskell), [@katychuang's getting started with haskell](https://github.com/katychuang/getting-started-with-haskell)  
-
-Note: [@bitemyapp](https://github.com/bitemyapp/learnhaskell#yorgey-course---do-this-first-this-is-the-primary-way-i-recommend-being-introduced-to-haskell) recommends starting with online courses if you're coming from another language. 
+* Classes: [edX - Intro to Functional Programming](https://www.edx.org/course/delftx/delftx-fp101x-introduction-functional-2126#.U_bFL7xdVgw), [CIS 194 by Brent Yorgey](http://www.seas.upenn.edu/~cis194/lectures.html)  
+* Tutorials: [Haskell Wiki's list](http://www.haskell.org/haskellwiki/Tutorials), [@katychuang's short list](https://github.com/katychuang/getting-started-with-haskell)  
 
 *Footnotes*
 
