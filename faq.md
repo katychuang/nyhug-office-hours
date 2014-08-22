@@ -25,7 +25,7 @@ Linux - Download the latest copies of GHC and Cabal. Follow instructions in the 
 
 OSX - similar to instructions for linux.
 
-OSX10.9 Mavericks introduces problems with GCC compiler. As of May 2014, these were the most up to date instructions written by [@cartazio](https://gist.github.com/cartazio/7131371) and [@katychuang](http://stackoverflow.com/questions/19579577/installing-building-ghc-with-osx-mavericks-ghc)
+OSX10.9 Mavericks introduces problems with GCC compiler. As of May 2014, the most up to date instructions were written by [@cartazio](https://gist.github.com/cartazio/7131371) and [@katychuang](http://stackoverflow.com/questions/19579577/installing-building-ghc-with-osx-mavericks-ghc)
 
 
 
