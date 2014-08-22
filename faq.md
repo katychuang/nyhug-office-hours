@@ -23,13 +23,12 @@ You can either install the "all-in-one" [Haskell Platform](https://www.haskell.o
 
 Linux - Download the latest copies of GHC and Cabal. Follow instructions in the INSTALL file. The popular paths among those installing to source are ghc to `~/.ghc/bin` and cabal to `~/.cabal/bin`. Make sure your PATH environment variable can find these two paths.
 
-OSX - similar to instructions for linx.
+OSX - similar to instructions for linux.
 
 OSX10.9 Mavericks introduces problems with GCC compiler. As of May 2014, these were the most up to date instructions written by [@cartazio](https://gist.github.com/cartazio/7131371) and [@katychuang](http://stackoverflow.com/questions/19579577/installing-building-ghc-with-osx-mavericks-ghc)
 
 
 
-*  
 
 
 
